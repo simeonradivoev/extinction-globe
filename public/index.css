@@ -1,0 +1,19 @@
+body {
+    overflow: hidden;
+    margin: 0px;
+}
+
+#controls {
+    display: flex;
+    position: absolute;
+    left: 32px;
+    right: 32px;
+    bottom: 32px;
+    height: 64px;
+    color: white;
+}
+
+#timeRange {
+    display: flex;
+    flex-grow: 1;
+}
